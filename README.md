@@ -2,10 +2,10 @@
 
 
 ##
-<a href="https://github.com/jenfranca">
+<a href="https://github.com/JenFranca">
 <div align="center"> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jenfranca&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenfranca&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JenFranca&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenFranca&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 ##
@@ -36,6 +36,6 @@
   <a href = "mailto:jenifferfretesfranca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeniffer-franca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![snake gif](https://github.com/jenfranca/jenfranca/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/JenFranca/JenFranca/blob/output/github-contribution-grid-snake.svg)
  
 </div>
