@@ -7,14 +7,14 @@ Sou Jeniffer França, desenvolvedora back-end, atuando com C# e .NET, além de A
 Já tive experiência com front-end e tive a oportunidade de trabalhar em Portugal com Angular, CSS e TypeScript. Minha trajetória inclui desenvolvimento full-stack, e aqui pretendo compartilhar meus aprendizados ao longo do caminho. 🚀".
 
 <p align="center">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/JenFranca?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/JenFranca?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/JenFranca?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
