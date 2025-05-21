@@ -10,6 +10,19 @@ Sou Jeniffer França, desenvolvedora back-end, atuando com C# e .NET, além de A
 
 Já tive experiência com front-end e tive a oportunidade de trabalhar em Portugal com Angular, CSS e TypeScript. Minha trajetória inclui desenvolvimento full-stack, e aqui pretendo compartilhar meus aprendizados ao longo do caminho. 🚀".
 
+
+<!-- Informações com emojis alinhadas à esquerda -->
+<div style="text-align: left; padding: 20px 0;">
+  <ul>
+    <li>💻 <strong>Técnica</strong> em Análise e Desenvolvimento de Sistemas - ETEC</li>
+    <li>🎓 <strong>Graduanda</strong> em Desenvolvimento de Sistemas - Estácio de Sá</li>
+    <li>👩‍💻 <strong>Desenvolvedora Backend | C# | .Net | AWS | PostgreSQL | @Brasil317 Tecnologia</strong></li>
+    <li>🎂 <strong>27 anos</strong> - 1997</li>
+  </ul>
+</div>
+
+<hr>
+
 <p align="center">
     <a href="https://github.com/JenFranca?tab=repositories&sort=stargazers">
         <img 
