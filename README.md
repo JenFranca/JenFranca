@@ -8,7 +8,7 @@
 
 Sou Jeniffer França, desenvolvedora back-end, atuando com C# e .NET, além de AWS e PostgreSQL no dia a dia. Sou formada em Análise e Desenvolvimento de Sistemas.
 
-Já tive experiência com front-end e tive a oportunidade de trabalhar em Portugal com Angular, CSS e TypeScript. Minha trajetória inclui desenvolvimento full-stack, e aqui pretendo compartilhar meus aprendizados ao longo do caminho. 🚀".
+Já tive experiência com front-end e tive a oportunidade de trabalhar em uma empresa de Portugal com Angular, CSS e TypeScript. Minha trajetória inclui desenvolvimento full-stack, e aqui pretendo compartilhar meus aprendizados ao longo do caminho. 🚀".
 
 
 <!-- Informações com emojis alinhadas à esquerda -->
