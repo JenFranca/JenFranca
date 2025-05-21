@@ -1,5 +1,9 @@
 # 👩🏻‍💻 Jeniffer França
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=007BFF&size=25&center=false&vCenter=true&width=1000&lines=Jeniffer+França;Be+Welcome!+:%29" alt="Typing SVG">
+</a>
+
 **`Desenvolvedora Backend`**
 
 Sou Jeniffer França, desenvolvedora back-end, atuando com C# e .NET, além de AWS e PostgreSQL no dia a dia. Sou formada em Análise e Desenvolvimento de Sistemas.
