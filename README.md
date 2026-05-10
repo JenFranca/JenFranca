@@ -22,7 +22,7 @@
 
 <p align="left">
   Sou <strong>Jeniffer França</strong>, analista desenvolvedora graduada em <strong>Análise e Desenvolvimento de Sistemas</strong> pela Estácio de Sá e técnica pelo ETEC Machado de Assis. <br><br>
-  Na <strong><a href="https://kaffa.tech">Kaffa Tech</a></strong>, desenvolvo soluções com <strong>C#, Oracle, Windows Forms e ArcGIS</strong> para gestão de ativos de redes elétricas e saneamento. <br><br>
+  Na <strong><a href="https://kaffa.tech">Kaffa Tech</a></strong>, desenvolvo soluções com <strong>C#, Oracle, Windows Forms e ArcGIS</strong> para gestão de ativos de redes elétricas. <br><br>
   Antes, na <strong>Brasil317</strong>, fui de helpdesk a desenvolvedora backend — automatizando processos, gerenciando infraestrutura <strong>AWS</strong>, implementando pipelines <strong>CI/CD</strong> e trabalhando com <strong>.NET, PostgreSQL, Redis e Docker</strong>. <br><br>
   No meio do caminho, ainda passei por Portugal desenvolvendo interfaces com <strong>Angular e TypeScript</strong>. <br><br>
   <em>Alguns olham pro céu e veem estrelas. Eu vejo satélites e já imagino as coordenadas.</em>
