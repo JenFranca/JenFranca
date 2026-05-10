@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=FF6600&size=28&center=true&vCenter=true&width=700&lines=Olá!+Eu+sou+a+Jeniffer+França+👋;Analista+Desenvolvedora;C%23+|+.NET+|+Oracle+|+ArcGIS;Bem-vinda(o)!+%3A)&pause=1000" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=FF6600&size=28&center=true&vCenter=true&width=700&lines=Olá!+Eu+sou+a+Jeniffer+França+👋;Analista+Desenvolvedora;C%23+|+.NET+|+Oracle+|+ArcGIS;Claude+|+Copilot+|+Cursor;Bem-vinda(o)!+%3A)&pause=1000" />
   </a>
 </h1>
 
@@ -80,6 +80,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" title="Git" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" title="VSCode" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="50" title="Linux" />
+</div>
+
+<h3 align="center">🧠 IA & Produtividade</h3>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/anthropic/FF6600" height="50" title="Claude (Anthropic)" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubcopilot/FF6600" height="50" title="GitHub Copilot" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cursor/FF6600" height="50" title="Cursor" />
 </div>
 
 ---
